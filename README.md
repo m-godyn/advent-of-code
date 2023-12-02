@@ -6,35 +6,35 @@ All puzzles are from [Advent of Code](https://adventofcode.com/) courtesy of [Er
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](2023/)
 
-Completed: **1 / 25** (4%)
+Completed: **2 / 25** (8%)
 
-| Calendar            | Name                                               |
-|---------------------|----------------------------------------------------|
-| [✅ Day 1](2023/01/) | [Trebuchet?!](https://adventofcode.com/2023/day/1) |
-| ❌ Day 2             | [-](https://adventofcode.com/2023/day/2)           |
-| ❌ Day 3             | [-](https://adventofcode.com/2023/day/3)           |
-| ❌ Day 4             | [-](https://adventofcode.com/2023/day/4)           |
-| ❌ Day 5             | [-](https://adventofcode.com/2023/day/5)           |
-| ❌ Day 6             | [-](https://adventofcode.com/2023/day/6)           |
-| ❌ Day 7             | [-](https://adventofcode.com/2023/day/7)           |
-| ❌ Day 8             | [-](https://adventofcode.com/2023/day/8)           |
-| ❌ Day 9             | [-](https://adventofcode.com/2023/day/9)           |
-| ❌ Day 10            | [-](https://adventofcode.com/2023/day/10)          |
-| ❌ Day 11            | [-](https://adventofcode.com/2023/day/11)          |
-| ❌ Day 12            | [-](https://adventofcode.com/2023/day/12)          |
-| ❌ Day 13            | [-](https://adventofcode.com/2023/day/13)          |
-| ❌ Day 14            | [-](https://adventofcode.com/2023/day/14)          |
-| ❌ Day 15            | [-](https://adventofcode.com/2023/day/15)          |
-| ❌ Day 16            | [-](https://adventofcode.com/2023/day/16)          |
-| ❌ Day 17            | [-](https://adventofcode.com/2023/day/17)          |
-| ❌ Day 18            | [-](https://adventofcode.com/2023/day/18)          |
-| ❌ Day 19            | [-](https://adventofcode.com/2023/day/19)          |
-| ❌ Day 20            | [-](https://adventofcode.com/2023/day/20)          |
-| ❌ Day 21            | [-](https://adventofcode.com/2023/day/21)          |
-| ❌ Day 22            | [-](https://adventofcode.com/2023/day/22)          |
-| ❌ Day 23            | [-](https://adventofcode.com/2023/day/23)          |
-| ❌ Day 24            | [-](https://adventofcode.com/2023/day/24)          |
-| ❌ Day 25            | [-](https://adventofcode.com/2023/day/25)          |
+| Calendar            | Name                                                  |
+|---------------------|-------------------------------------------------------|
+| [✅ Day 1](2023/01/) | [Trebuchet?!](https://adventofcode.com/2023/day/1)    |
+| [✅ Day 2](2023/02/) | [Cube Conundrum](https://adventofcode.com/2023/day/2) |
+| ❌ Day 3             | [-](https://adventofcode.com/2023/day/3)              |
+| ❌ Day 4             | [-](https://adventofcode.com/2023/day/4)              |
+| ❌ Day 5             | [-](https://adventofcode.com/2023/day/5)              |
+| ❌ Day 6             | [-](https://adventofcode.com/2023/day/6)              |
+| ❌ Day 7             | [-](https://adventofcode.com/2023/day/7)              |
+| ❌ Day 8             | [-](https://adventofcode.com/2023/day/8)              |
+| ❌ Day 9             | [-](https://adventofcode.com/2023/day/9)              |
+| ❌ Day 10            | [-](https://adventofcode.com/2023/day/10)             |
+| ❌ Day 11            | [-](https://adventofcode.com/2023/day/11)             |
+| ❌ Day 12            | [-](https://adventofcode.com/2023/day/12)             |
+| ❌ Day 13            | [-](https://adventofcode.com/2023/day/13)             |
+| ❌ Day 14            | [-](https://adventofcode.com/2023/day/14)             |
+| ❌ Day 15            | [-](https://adventofcode.com/2023/day/15)             |
+| ❌ Day 16            | [-](https://adventofcode.com/2023/day/16)             |
+| ❌ Day 17            | [-](https://adventofcode.com/2023/day/17)             |
+| ❌ Day 18            | [-](https://adventofcode.com/2023/day/18)             |
+| ❌ Day 19            | [-](https://adventofcode.com/2023/day/19)             |
+| ❌ Day 20            | [-](https://adventofcode.com/2023/day/20)             |
+| ❌ Day 21            | [-](https://adventofcode.com/2023/day/21)             |
+| ❌ Day 22            | [-](https://adventofcode.com/2023/day/22)             |
+| ❌ Day 23            | [-](https://adventofcode.com/2023/day/23)             |
+| ❌ Day 24            | [-](https://adventofcode.com/2023/day/24)             |
+| ❌ Day 25            | [-](https://adventofcode.com/2023/day/25)             |
 
 ## 2022 
 
@@ -45,8 +45,8 @@ Completed: **9 / 25** (36%)
 | Calendar            | Name                                                           |
 |---------------------|----------------------------------------------------------------|
 | [✅ Day 1](2022/01/) | [Calorie Counting](https://adventofcode.com/2022/day/1)        |
-| [✅ Day 2](2022/01/) | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)     |
-| [✅ Day 3](2022/01/) | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) |
+| [✅ Day 2](2022/02/) | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)     |
+| [✅ Day 3](2022/03/) | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) |
 | [✅ Day 4](2022/04/) | [Camp Cleanup](https://adventofcode.com/2022/day/4)            |
 | [✅ Day 5](2022/05/) | [Supply Stacks](https://adventofcode.com/2022/day/5)           |
 | [✅ Day 6](2022/06/) | [Tuning Trouble](https://adventofcode.com/2022/day/6)          |
