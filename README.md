@@ -1,4 +1,4 @@
-# :christmas_tree: Advent of Code :christmas_tree:
+# 🎄 Advent of Code 🎄
 
 All puzzles are from [Advent of Code](https://adventofcode.com/) courtesy of [Eric Wastl](http://was.tl/).
 
