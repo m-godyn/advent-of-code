@@ -6,13 +6,13 @@ All puzzles are from [Advent of Code](https://adventofcode.com/) courtesy of [Er
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](2023/)
 
-Completed: **2 / 25** (8%)
+Completed: **3 / 25** (12%)
 
 | Calendar            | Name                                                  |
 |---------------------|-------------------------------------------------------|
 | [✅ Day 1](2023/01/) | [Trebuchet?!](https://adventofcode.com/2023/day/1)    |
 | [✅ Day 2](2023/02/) | [Cube Conundrum](https://adventofcode.com/2023/day/2) |
-| ❌ Day 3             | [-](https://adventofcode.com/2023/day/3)              |
+| [✅ Day 3](2023/03/) | [Gear Ratios](https://adventofcode.com/2023/day/3)    |
 | ❌ Day 4             | [-](https://adventofcode.com/2023/day/4)              |
 | ❌ Day 5             | [-](https://adventofcode.com/2023/day/5)              |
 | ❌ Day 6             | [-](https://adventofcode.com/2023/day/6)              |
