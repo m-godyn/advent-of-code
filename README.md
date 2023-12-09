@@ -6,7 +6,7 @@ All puzzles are from [Advent of Code](https://adventofcode.com/) courtesy of [Er
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](2023/)
 
-Completed: **8 / 25** (32%)
+Completed: **9 / 25** (36%)
 
 | Calendar             | Name                                                                   |
 |----------------------|------------------------------------------------------------------------|
@@ -18,7 +18,7 @@ Completed: **8 / 25** (32%)
 | [✅✅ Day 6](2023/06/) | [Wait For It](https://adventofcode.com/2023/day/6)                     |
 | [✅✅ Day 7](2023/07/) | [Camel Cards](https://adventofcode.com/2023/day/7)                     |
 | [✅✅ Day 8](2023/08/) | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               |
-| ❌❌ Day 9             | [-](https://adventofcode.com/2023/day/9)                               |
+| [✅✅ Day 9](2023/09/) | [Mirage Maintenance](https://adventofcode.com/2023/day/9)              |
 | ❌❌ Day 10            | [-](https://adventofcode.com/2023/day/10)                              |
 | ❌❌ Day 11            | [-](https://adventofcode.com/2023/day/11)                              |
 | ❌❌ Day 12            | [-](https://adventofcode.com/2023/day/12)                              |
