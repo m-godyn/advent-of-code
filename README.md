@@ -20,21 +20,6 @@ Completed: **9.5 / 25** (38%)
 | [✅✅ Day 8](2023/08/)  | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               |
 | [✅✅ Day 9](2023/09/)  | [Mirage Maintenance](https://adventofcode.com/2023/day/9)              |
 | [✅❌ Day 10](2023/10/) | [Pipe Maze](https://adventofcode.com/2023/day/10)                      |
-| ❌❌ Day 11             | [-](https://adventofcode.com/2023/day/11)                              |
-| ❌❌ Day 12             | [-](https://adventofcode.com/2023/day/12)                              |
-| ❌❌ Day 13             | [-](https://adventofcode.com/2023/day/13)                              |
-| ❌❌ Day 14             | [-](https://adventofcode.com/2023/day/14)                              |
-| ❌❌ Day 15             | [-](https://adventofcode.com/2023/day/15)                              |
-| ❌❌ Day 16             | [-](https://adventofcode.com/2023/day/16)                              |
-| ❌❌ Day 17             | [-](https://adventofcode.com/2023/day/17)                              |
-| ❌❌ Day 18             | [-](https://adventofcode.com/2023/day/18)                              |
-| ❌❌ Day 19             | [-](https://adventofcode.com/2023/day/19)                              |
-| ❌❌ Day 20             | [-](https://adventofcode.com/2023/day/20)                              |
-| ❌❌ Day 21             | [-](https://adventofcode.com/2023/day/21)                              |
-| ❌❌ Day 22             | [-](https://adventofcode.com/2023/day/22)                              |
-| ❌❌ Day 23             | [-](https://adventofcode.com/2023/day/23)                              |
-| ❌❌ Day 24             | [-](https://adventofcode.com/2023/day/24)                              |
-| ❌❌ Day 25             | [-](https://adventofcode.com/2023/day/25)                              |
 
 ## 2022 
 
@@ -53,19 +38,3 @@ Completed: **8.5 / 25** (34%)
 | [✅✅ Day 7](2022/07/) | [No Space Left On Device](https://adventofcode.com/2022/day/7) |
 | [✅✅ Day 8](2022/08/) | [Treetop Tree House](https://adventofcode.com/2022/day/8)      |
 | [✅❌ Day 9](2022/09/) | [Rope Bridge](https://adventofcode.com/2022/day/9)             |
-| ❌❌ Day 10            | [-](https://adventofcode.com/2022/day/10)                      |
-| ❌❌ Day 11            | [-](https://adventofcode.com/2022/day/11)                      |
-| ❌❌ Day 12            | [-](https://adventofcode.com/2022/day/12)                      |
-| ❌❌ Day 13            | [-](https://adventofcode.com/2022/day/13)                      |
-| ❌❌ Day 14            | [-](https://adventofcode.com/2022/day/14)                      |
-| ❌❌ Day 15            | [-](https://adventofcode.com/2022/day/15)                      |
-| ❌❌ Day 16            | [-](https://adventofcode.com/2022/day/16)                      |
-| ❌❌ Day 17            | [-](https://adventofcode.com/2022/day/17)                      |
-| ❌❌ Day 18            | [-](https://adventofcode.com/2022/day/18)                      |
-| ❌❌ Day 19            | [-](https://adventofcode.com/2022/day/19)                      |
-| ❌❌ Day 20            | [-](https://adventofcode.com/2022/day/20)                      |
-| ❌❌ Day 21            | [-](https://adventofcode.com/2022/day/21)                      |
-| ❌❌ Day 21            | [-](https://adventofcode.com/2022/day/22)                      |
-| ❌❌ Day 23            | [-](https://adventofcode.com/2022/day/23)                      |
-| ❌❌ Day 24            | [-](https://adventofcode.com/2022/day/24)                      |
-| ❌❌ Day 25            | [-](https://adventofcode.com/2022/day/25)                      |
