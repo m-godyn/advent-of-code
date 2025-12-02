@@ -6,12 +6,12 @@ All puzzles are from [Advent of Code](https://adventofcode.com/) courtesy of [Er
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](2025/)
 
-Completed: **1 / 12** (8%)
+Completed: **2 / 12** (16%)
 
 | Calendar                     | Name                                                   |
 | ---------------------------- | ------------------------------------------------------ |
 | [✅✅ Day 1](2025/day01.py)  | [Secret Entrance](https://adventofcode.com/2025/day/1) |
-| [❌❌ Day 2](2025/day02.py)  | [-](https://adventofcode.com/2025/day/2)               |
+| [✅✅ Day 2](2025/day02.py)  | [Gift Shop](https://adventofcode.com/2025/day/2)       |
 | [❌❌ Day 3](2025/day03.py)  | [-](https://adventofcode.com/2025/day/3)               |
 | [❌❌ Day 4](2025/day04.py)  | [-](https://adventofcode.com/2025/day/4)               |
 | [❌❌ Day 5](2025/day05.py)  | [-](https://adventofcode.com/2025/day/5)               |
@@ -24,14 +24,11 @@ Completed: **1 / 12** (8%)
 | [❌❌ Day 12](2025/day12.py) | [-](https://adventofcode.com/2025/day/10)              |
 
 ## 2023
-## 2023
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](2023/)
 
 Completed: **9.5 / 25** (38%)
 
-| Calendar                | Name                                                                   |
-| ----------------------- | ---------------------------------------------------------------------- |
 | Calendar                | Name                                                                   |
 | ----------------------- | ---------------------------------------------------------------------- |
 | [✅✅ Day 1](2023/01/)  | [Trebuchet?!](https://adventofcode.com/2023/day/1)                     |
@@ -46,14 +43,11 @@ Completed: **9.5 / 25** (38%)
 | [✅❌ Day 10](2023/10/) | [Pipe Maze](https://adventofcode.com/2023/day/10)                      |
 
 ## 2022
-## 2022
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](2022/)
 
 Completed: **8.5 / 25** (34%)
 
-| Calendar               | Name                                                           |
-| ---------------------- | -------------------------------------------------------------- |
 | Calendar               | Name                                                           |
 | ---------------------- | -------------------------------------------------------------- |
 | [✅✅ Day 1](2022/01/) | [Calorie Counting](https://adventofcode.com/2022/day/1)        |
