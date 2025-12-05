@@ -12,7 +12,7 @@ Completed: **2 / 12** (16%)
 | ---------------------------- | ------------------------------------------------------ |
 | [✅✅ Day 1](2025/day01.py)  | [Secret Entrance](https://adventofcode.com/2025/day/1) |
 | [✅✅ Day 2](2025/day02.py)  | [Gift Shop](https://adventofcode.com/2025/day/2)       |
-| [❌❌ Day 3](2025/day03.py)  | [-](https://adventofcode.com/2025/day/3)               |
+| [✅❌ Day 3](2025/day03.py)  | [Lobby](https://adventofcode.com/2025/day/3)           |
 | [❌❌ Day 4](2025/day04.py)  | [-](https://adventofcode.com/2025/day/4)               |
 | [❌❌ Day 5](2025/day05.py)  | [-](https://adventofcode.com/2025/day/5)               |
 | [❌❌ Day 6](2025/day06.py)  | [-](https://adventofcode.com/2025/day/6)               |
